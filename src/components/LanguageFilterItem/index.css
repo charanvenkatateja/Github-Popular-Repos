@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.buttons-container {
+  margin: 10px;
+}
+.line {
+  list-style-type: none;
+  margin: 12px;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.act-button {
+  border: 1px solid blue;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
